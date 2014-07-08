@@ -1,0 +1,41 @@
+body{
+	
+	margin-top:0px;
+	margin-left:0px;
+	margin-right:0px;
+	margin-botto:0px;
+	
+}
+
+.container{
+	margin:auto;
+	margin-top:50px;
+	width:800px;
+	height:auto;
+}
+
+.top{
+	padding:20px 20px 20px 20px;
+	width:760px;
+	height:150px;
+	background:red;
+}
+/*padding-top:;*/
+.main{
+	margin-bottom:5px;
+	width:800px;
+	height:500px;
+	background:blue;
+}	
+
+.footer{
+	margin-bottom:10px;
+	width:800px;
+	height:150px;
+	background:green;	
+}
+
+h1{
+font-family:tahoma;
+color:#cdcdcd;
+}
